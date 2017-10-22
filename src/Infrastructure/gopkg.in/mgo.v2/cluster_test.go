@@ -34,9 +34,9 @@ import (
 	"sync"
 	"time"
 
-	. "gopkg.in/check.v1"
-	"gopkg.in/mgo.v2"
-	"gopkg.in/mgo.v2/bson"
+	. "Infrastructure/gopkg.in/check.v1"
+	"Infrastructure/gopkg.in/mgo.v2"
+	"Infrastructure/gopkg.in/mgo.v2/bson"
 )
 
 func (s *S) TestNewSession(c *C) {

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/astaxie/beego/cache"
+	"Infrastructure/beego/cache"
 )
 
 func TestSsdbcacheCache(t *testing.T) {

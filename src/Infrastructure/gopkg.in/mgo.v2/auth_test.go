@@ -38,8 +38,8 @@ import (
 	"sync"
 	"time"
 
-	. "gopkg.in/check.v1"
-	"gopkg.in/mgo.v2"
+	. "Infrastructure/gopkg.in/check.v1"
+	"Infrastructure/gopkg.in/mgo.v2"
 )
 
 func (s *S) TestAuthLoginDatabase(c *C) {

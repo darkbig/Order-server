@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"time"
 
-	"gopkg.in/mgo.v2"
-	"gopkg.in/tomb.v2"
+	"Infrastructure/gopkg.in/mgo.v2"
+	"Infrastructure/gopkg.in/tomb.v2"
 )
 
 // DBServer controls a MongoDB server process to be used within test suites.

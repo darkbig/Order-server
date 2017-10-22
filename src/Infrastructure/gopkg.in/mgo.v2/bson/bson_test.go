@@ -39,9 +39,9 @@ import (
 	"testing"
 	"time"
 
-	. "gopkg.in/check.v1"
-	"gopkg.in/mgo.v2/bson"
-	"gopkg.in/yaml.v2"
+	. "Infrastructure/gopkg.in/check.v1"
+	"Infrastructure/gopkg.in/mgo.v2/bson"
+	"Infrastructure/gopkg.in/yaml.v2"
 )
 
 func TestAll(t *testing.T) {

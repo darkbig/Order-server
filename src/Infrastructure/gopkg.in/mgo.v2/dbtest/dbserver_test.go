@@ -5,10 +5,10 @@ import (
 	"testing"
 	"time"
 
-	. "gopkg.in/check.v1"
+	. "Infrastructure/gopkg.in/check.v1"
 
-	"gopkg.in/mgo.v2"
-	"gopkg.in/mgo.v2/dbtest"
+	"Infrastructure/gopkg.in/mgo.v2"
+	"Infrastructure/gopkg.in/mgo.v2/dbtest"
 )
 
 type M map[string]interface{}

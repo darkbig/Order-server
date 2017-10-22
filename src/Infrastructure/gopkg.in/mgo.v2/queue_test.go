@@ -27,7 +27,7 @@
 package mgo
 
 import (
-	. "gopkg.in/check.v1"
+	. "Infrastructure/gopkg.in/check.v1"
 )
 
 type QS struct{}

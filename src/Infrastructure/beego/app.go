@@ -23,9 +23,9 @@ import (
 	"path"
 	"time"
 
-	"github.com/astaxie/beego/grace"
-	"github.com/astaxie/beego/logs"
-	"github.com/astaxie/beego/utils"
+	"Infrastructure/beego/grace"
+	"Infrastructure/beego/logs"
+	"Infrastructure/beego/utils"
 )
 
 var (

@@ -3,7 +3,7 @@ package txn
 import (
 	"sort"
 
-	. "gopkg.in/check.v1"
+	. "Infrastructure/gopkg.in/check.v1"
 )
 
 type DocKeySuite struct{}
