@@ -1,7 +1,8 @@
 # Order-server
 点菜后台服务，go语言，数据库mongoDB
 
-go get Infrastructure/beego
+go get github.com/astaxie/beego
 
-go get Infrastructure/gopkg.in/mgo.v2
-go get Infrastructure/gopkg.in/mgo.v2/bson
+go get github.com/beego/bee
+
+go get labix.org/v2/mgo
