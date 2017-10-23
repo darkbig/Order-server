@@ -1,3 +1,4 @@
 .gradle
 /.idea
 /pkg
+/src/myOrderSystem/*.exe
